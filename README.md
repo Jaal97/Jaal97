@@ -1,5 +1,6 @@
-### Hi there 👋
+### 😄 Hi welcome to my repository
 
+These are some projects that I have done, I will add many more :)
 <!--
 **Jaal97/Jaal97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
